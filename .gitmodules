@@ -1,0 +1,3 @@
+[submodule "themes/resch.pw-theme"]
+	path = themes/resch.pw-theme
+	url = git@github.com:thatshumbug/resch.pw-theme.git
